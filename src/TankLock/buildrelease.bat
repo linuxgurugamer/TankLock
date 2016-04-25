@@ -26,13 +26,15 @@ set /p VERSION= "Enter version: "
 
 
 mkdir %HOMEDIR%\install\GameData\TankLock
-mkdir %HOMEDIR%\install\GameData\TankLock\Plugin
+mkdir %HOMEDIR%\install\GameData\TankLock\Plugins
 
 del %HOMEDIR%\install\GameData\TankLock
+del %HOMEDIR%\install\GameData\TankLock\Plugins
 
 
-copy /Y "%~dp0bin\Release\TankLock.dll" "%HOMEDIR%\install\GameData\TankLock"
+copy /Y "%~dp0bin\Release\TankLock.dll" "%HOMEDIR%\install\GameData\TankLock\Plugins"
 copy /Y "TankLock.version" "%HOMEDIR%\install\GameData\TankLock"
+copy /Y "%~dp0TankLock.cfg" "%HOMEDIR%\install\GameData\TankLock"
 
 copy /Y "%~dp0..\License.txt" "%HOMEDIR%\install\GameData\TankLock"
 copy /Y "%~dp0..\..\README.md" "%HOMEDIR%\install\GameData\TankLock"

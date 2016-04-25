@@ -63,5 +63,6 @@
     <None Include="..\..\README.md">
       <Link>README.md</Link>
     </None>
+    <None Include="TankLock.cfg" />
   </ItemGroup>
 </Project>

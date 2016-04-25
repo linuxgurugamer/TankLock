@@ -1,12 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TankLock.version">
+  <MonoDevelop.Ide.Workbench ActiveDocument="buildrelease.bat">
     <Files>
       <File FileName="TankLock.cs" Line="1" Column="1" />
-      <File FileName="deploy.bat" Line="10" Column="30" />
-      <File FileName="buildrelease.bat" Line="22" Column="1" />
-      <File FileName="TankLock.version" Line="16" Column="2" />
-      <File FileName="..\..\README.md" Line="9" Column="1" />
+      <File FileName="deploy.bat" Line="1" Column="1" />
+      <File FileName="buildrelease.bat" Line="32" Column="42" />
+      <File FileName="TankLock.version" Line="1" Column="1" />
+      <File FileName="..\..\README.md" Line="1" Column="1" />
+      <File FileName="TankLock.cfg" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
