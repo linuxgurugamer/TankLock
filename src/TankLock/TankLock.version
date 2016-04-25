@@ -1,0 +1,16 @@
+﻿{
+	"NAME"	:	"TankLock",
+	"URL"	:	"http://ksp-avc.cybutek.net/version.php?id=286",
+	"DOWNLOAD":	"http://spacedock.info/mod/592/TankLock",
+	"VERSION":{
+		"MAJOR":0,
+		"MINOR":2,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":{
+		"MAJOR":1,
+		"MINOR":1,
+		"PATCH":0
+	}
+}
