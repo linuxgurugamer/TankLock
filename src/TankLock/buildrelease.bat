@@ -44,5 +44,5 @@ cd %HOMEDIR%\install
 
 set FILE="%RELEASEDIR%\TankLock-%VERSION%.zip"
 IF EXIST %FILE% del /F %FILE%
-%ZIP% a -tzip %FILE% Gamedata\TankLock
+%ZIP% a -tzip %FILE% GameData\TankLock
 
