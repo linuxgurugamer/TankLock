@@ -1,6 +1,8 @@
 using System;
 using KSP;
 
+using UnityEngine.UI;
+
 /******************************************************************************
  * Copyright (c) 2014~2015, Justin Bengtson
  * All rights reserved.
