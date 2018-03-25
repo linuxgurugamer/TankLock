@@ -1,0 +1,7 @@
+0.2.5
+	Adoption by LGG
+
+0.2.5.1
+	updated for 1.4.1
+	added Jenkins config
+	Updated directyr layout and build scripts
