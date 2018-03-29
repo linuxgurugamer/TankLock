@@ -5,3 +5,6 @@
 	updated for 1.4.1
 	added Jenkins config
 	Updated directyr layout and build scripts
+
+0.2.5.2
+	Updated version file for all of 1.4.*
