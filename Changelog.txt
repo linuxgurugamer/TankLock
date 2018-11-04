@@ -8,3 +8,6 @@
 
 0.2.5.2
 	Updated version file for all of 1.4.*
+
+0.2.5.3
+	Version bump for 1.5 rebuild
