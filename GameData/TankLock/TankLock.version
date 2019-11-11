@@ -1,26 +1,16 @@
-﻿{
+{
   "NAME": "TankLock",
   "URL": "http://ksp.spacetux.net/avc/TankLock",
   "DOWNLOAD": "http://spacedock.info/mod/592/TankLock",
   "VERSION": {
     "MAJOR": 0,
     "MINOR": 2,
-    "PATCH": 5,
-    "BUILD": 3
-  },
-  "KSP_VERSION": {
-    "MAJOR": 1,
-    "MINOR": 5,
-    "PATCH": 1
+    "PATCH": 6,
+    "BUILD": 0
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
-    "MINOR": 5,
-    "PATCH": 1
-  },
-  "KSP_VERSION_MAX": {
-    "MAJOR": 1,
-    "MINOR": 5,
-    "PATCH": 99
+    "MINOR": 8,
+    "PATCH": 0
   }
 }
